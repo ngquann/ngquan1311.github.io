@@ -127,4 +127,6 @@ html {
 .content__item {
     flex-shrink: 0;
     display: block;
+    overflow: hidden;
+
 }
