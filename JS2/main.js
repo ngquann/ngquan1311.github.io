@@ -15,8 +15,8 @@ mark(90)
 
 // Bài 2
 function number(a, b) {
-    let number = (a, b)
-    console.log(Math.max(number))
+    let num = (a, b)
+    console.log(Math.max(num))
 }
 
 number(6,9)
